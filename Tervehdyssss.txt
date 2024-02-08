@@ -1,13 +1,1 @@
 Heippatirallaa..
-aaaaaa
-
-
-float f = 5;
-timer = Time * 15f * f;
-asdasd
-
-
-Heipdspatirallaa.
-
-asd.
-222222
